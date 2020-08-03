@@ -9,7 +9,7 @@ The aim of the project is to dynamically generate a README file using node.js
    * [User Story](#user-story)
    * [Usage](#usage)
    * [License](#license)
-   * [WalkThrough](#walkThrough)
+   * [Tests](#tests)
    * [Contributing](#contributing)
    * [Questions](#questions)
  
@@ -44,7 +44,7 @@ The aim of the project is to dynamically generate a README file using node.js
   
    This project is licensed under the MIT.
    
-  ## Video WalkThrough
+  ## Tests
   https://drive.google.com/file/d/17eNp--m8jNTR7PTPHf6UGtpqy8zb5DST/view
   
   ## Contributing
