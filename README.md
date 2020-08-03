@@ -5,13 +5,13 @@ The aim of the project is to dynamically generate a README file using node.js
 
 ## Table of Contents
  
- * [Installation](#installation)
-    * [User Story](#user-story)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+   * [Installation](#installation)
+   * [User Story](#user-story)
+   * [Usage](#usage)
+   * [License](#license)
+   * [Contributing](#contributing)
+   * [Tests](#tests)
+   * [Questions](#questions)
  
 
 ## 1. Usage
